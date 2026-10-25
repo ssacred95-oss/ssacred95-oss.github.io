@@ -1,0 +1,2 @@
+# app-ads.txt for apps by Zeiger (Dreamframe).
+# The Yandex Advertising Network line is added here once the app is approved in partner.yandex.ru.
